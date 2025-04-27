@@ -1,5 +1,5 @@
 Basic example of a C++ project depending on a static library for one property. Built with CMake or
-as a Vitis project.
+as a Vitis project. Tested with Vitis 2022.2
 
 How to use this repository:
 
